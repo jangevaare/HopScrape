@@ -38,4 +38,4 @@ if __name__ == '__main__':
             ignore_index = True)
         sleep(1.0)
 
-    hop_df.to_csv('Hops.csv')
+    hop_df.to_csv('raw_hops.csv')
